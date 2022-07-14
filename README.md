@@ -1,2 +1,0 @@
-# python
-## First python program.
